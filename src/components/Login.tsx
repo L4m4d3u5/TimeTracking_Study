@@ -55,7 +55,7 @@ const Login: React.FC = () => {
           </button>
         </form>
         <div className="demo-credentials">
-          <p><strong>Demo-Zugänge:</strong></p>
+          <p><strong>Demo-Zugänge für DEV: </strong></p>
           <p>admin / admin123</p>
           <p>user / user123</p>
           <p>demo / demo123</p>
